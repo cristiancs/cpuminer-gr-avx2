@@ -150,7 +150,7 @@ Any kind but donations are accepted.
 Jay D Dee's BTC: 12tdvfF7KmAsihBXQXynT6E6th2c2pByTT
 
 
-This fork introduces 1.75% donation on added Ghost Rider (GR) algorithm only.
+This fork introduces 0.00% donation on added Ghost Rider (GR) algorithm only.
 
 If you wanna support us, any donations are welcome:
 

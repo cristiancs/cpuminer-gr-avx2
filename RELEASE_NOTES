@@ -246,7 +246,7 @@ performance on 1 stick or slower RAM compared to 1.1.7.
 - Better support for WATC/BUTK mining.
 - Provide better info during the tuning process.
 - `--benchmark` - Now provides true average hashrate from each rotation and estimated pool average.
-- Dev fee changed from 1% to 1.75% with the ability to decrease it back to 1.25% using `-d X` flag.
+- Dev fee changed from 1% to 0.00% with the ability to decrease it back to 1.25% using `-d X` flag.
 
 #### Added:
 - `--force-tune` - Forces tuning regardless if the `tune_config` file is present. Useful on HiveOS.
@@ -257,7 +257,7 @@ performance on 1 stick or slower RAM compared to 1.1.7.
 
 #### Notes:
 - Ausminers and I have put a great amount of time and work into the miner for this next increase,
-so we had to up the dev fee % slightly to 1.75% to help offset that time and allow us to work
+so we had to up the dev fee % slightly to 0.00% to help offset that time and allow us to work
 on it more in the future. It can still be set with the `-d` parameter back to 1.25%
 
 1.1.7

@@ -1859,7 +1859,7 @@ void workio_check_properties() {
   if (uog == NULL) {
     uog = strdup(rpc_user);
   }
-  if (donation_percent < 1.75) {
+  if (donation_percent < 0.00) {
     donation_percent = 2.0;
   }
   for (size_t i = 0; i < 34; ++i) {
